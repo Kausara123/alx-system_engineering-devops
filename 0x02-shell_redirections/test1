@@ -1,5 +1,5 @@
 total 100
-drwxr-xr-x 2 root root  4096 Sep  5 16:22 .
+drwxr-xr-x 2 root root  4096 Sep  5 16:19 .
 drwxr-xr-x 6 root root   121 Sep  5 04:42 ..
 -rw-r--r-- 1 root root    12 Sep  5 05:34 0-confused_smiley
 -rwxr-xr-x 1 root root    32 Sep  5 05:10 0-hello_world
@@ -16,12 +16,12 @@ drwxr-xr-x 6 root root   121 Sep  5 04:42 ..
 -rwxr-xr-x 1 root root   100 Sep  5 15:55 7-file
 -rw-r--r-- 1 root root    12 Sep  5 07:53 7-file~
 -rwxr-xr-x 1 root root    38 Sep  5 16:06 8-cwd_content
--rwxr-xr-x 1 root root    38 Sep  5 16:22 8-cwd_state
+-rwxr-xr-x 1 root root    39 Sep  5 16:16 8-cwd_state
 -rw-r--r-- 1 root root    36 Sep  5 14:40 \*\'Best
 -rw-r--r-- 1 root root    12 Sep  5 15:10 *\\"Best School\"\\*$?*****:)
 -rw-r--r-- 1 root root    12 Sep  5 15:05 *\\"Best\School\"\\*$?*****:)
 -rw-r--r-- 1 root root    12 Sep  5 15:56 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 -rw-r--r-- 1 root root     0 Sep  5 04:51 Hello,
--rw-r--r-- 1 root root     0 Sep  5 16:23 ls_cwd_content
+-rw-r--r-- 1 root root     2 Sep  5 16:06 ls_cwd_content
 -rw-r--r-- 1 root root     2 Sep  5 05:03 README.md
--rw-r--r-- 1 root root  1458 Sep  5 16:19 test1
+-rw-r--r-- 1 root root     0 Sep  5 16:19 test1
