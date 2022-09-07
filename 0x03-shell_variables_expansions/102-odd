@@ -1,1 +1,2 @@
-cat -n | grep [13579] [[:space:]] | tr -s | cut -f2
+#!/bin/bashh
+cat -n | grep [13579][[:space:]] | tr -s'' | cut -f2
